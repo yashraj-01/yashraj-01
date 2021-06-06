@@ -18,7 +18,7 @@
 <hr />
 
 ### Stats
-[![Farees Hussain's github stats](https://github-readme-stats.wasabeef.vercel.app/api?username=yashraj-01&show_icons=true&line_height=21&show_icons=true&theme=tokyonight )](https://github.com/anuraghazra/github-readme-stats)
+[![Yash Raj's github stats](https://github-readme-stats.wasabeef.vercel.app/api?username=yashraj-01&show_icons=true&line_height=21&show_icons=true&theme=tokyonight )](https://github.com/anuraghazra/github-readme-stats)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashraj-01&show_icons=true&layout=compact&theme=tokyonight )](https://github.com/anuraghazra/github-readme-stats)
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FareesHussain&" alt="Farees Hussain" /></p> -->
