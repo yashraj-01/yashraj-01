@@ -18,10 +18,10 @@
 <hr />
 
 ### Stats
-[![Yash Raj's github stats](https://github-readme-stats.wasabeef.vercel.app/api?username=yashraj-01&show_icons=true&line_height=21&show_icons=true&theme=tokyonight )](https://github.com/anuraghazra/github-readme-stats)
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashraj-01&count_private=true&show_icons=true&theme=tokyonight)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashraj-01&show_icons=true&layout=compact&theme=tokyonight )](https://github.com/anuraghazra/github-readme-stats)
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FareesHussain&" alt="Farees Hussain" /></p> -->
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashraj-01&" alt="Yash Raj" /></p> -->
 
 [twitter]: https://twitter.com/yashrajprime
 [LinkedIn]: https://www.linkedin.com/in/yashraj-01
