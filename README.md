@@ -3,11 +3,14 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=yashraj-01.yashraj-01)
 [![GitHub followers](https://img.shields.io/github/followers/yashraj-01.svg?style=social&label=Follow)](https://github.com/yashraj-01?tab=followers)
 
-### Full Stack Web Developer and Native Android Developer
+### Backend Engineer | System Design Enthusiast | IIT Roorkee Graduate
 
-- 🔭 I’m currently working on Native Android Projects📱
-- 🌱 I’m currently learning new technologies related to app and web development💻
-- 💬 Ask me about anything!😉
+- 💼 Software Engineer @ Razorpay  
+- ⚙️ Building scalable microservices in Go & Kafka  
+- 🚀 Worked on payment systems processing ₹600Cr+/day across 65K+ merchants  
+- 🛠️ Into system design, performance optimization, and developer tooling  
+- 🧠 Constantly learning, contributing, and improving
+
 
 ### Connect with me
 
